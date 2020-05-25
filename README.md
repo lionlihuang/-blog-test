@@ -10,8 +10,8 @@
  我的前女友
  1.NONE
  
- 学过的语言有 'JAVA' . 我写一段给你看看
- ''' java
+ 学过的语言有 `JAVA` . 我写一段给你看看
+```java
  public static void main(String[]args) {
   System.out.println("Hellow , word)
   }
